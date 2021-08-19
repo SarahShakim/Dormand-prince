@@ -4,6 +4,8 @@
 
 **Example: The approximation of the IVP y(1)(t) = f2b(t, y(t)) with y(0) = 0**
 
-![image](https://user-images.githubusercontent.com/58648072/129996604-69d6316d-f35b-4384-b0e1-670acf3e2c4c.png)
+![image](https://user-images.githubusercontent.com/58648072/129996957-5c03f384-6153-409e-8f96-d4243b93ff09.png)
 
-![image](https://user-images.githubusercontent.com/58648072/129996236-d8920945-8016-4c39-813b-b4c051e3ee96.png)
+![image](https://user-images.githubusercontent.com/58648072/129997044-da6ff795-5192-41e3-bd9a-d3c727ef9581.png)
+
+
